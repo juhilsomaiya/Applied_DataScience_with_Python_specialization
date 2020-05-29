@@ -9,3 +9,7 @@ This contains 5 courses under the specialization:
 
 Check the link below for more details and the courses.
 https://www.coursera.org/specializations/data-science-python
+
+- Please feel free so share your thoughts, reviews on my email: jgs.131296@gmail.com
+- If you love the content, please buy me a coffee. 
+  - Google Pay : +917698373473
